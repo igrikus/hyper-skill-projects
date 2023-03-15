@@ -1,2 +1,2 @@
 # hyper-skill-projects
-My projects on Python from https://hyperskill.org/
+My projects (Python, Kotlin) from https://hyperskill.org/
